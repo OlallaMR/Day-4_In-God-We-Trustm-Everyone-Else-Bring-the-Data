@@ -1,16 +1,4 @@
 # Lab: Statistical Analysis of Marketing Channel Performance
-
-## Setup
-
-1. Clone this repository
-2. Install dependencies:
-```bash
-pip install numpy pandas matplotlib seaborn scipy
-```
-3. Place `marketing_data_raw.csv` in the `lab_statistical_analysis/` folder
-
----
-
 ## File Map
 
 | File | Description |
